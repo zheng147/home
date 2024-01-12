@@ -45,7 +45,7 @@ import { Pagination, Mousewheel } from "swiper";
 const projectData = [
   {
     name: "home",
-    author: "zheng147/home",
+    author: "zheng147",
     desc: "胖志志主页",
   },
   {
