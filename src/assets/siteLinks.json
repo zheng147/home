@@ -1,13 +1,13 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "icon": "OPENWRT-J1900",
+    "name": "J1900软路由-openwrt后台",
+    "link": "http://192.168.2.1/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "icon": "OPENWRT-华硕路由",
+    "name": "华硕路由-OPENWRT后台",
+    "link": "https://192.168.2.3"
   },
   {
     "icon": "CompactDisc",
@@ -15,14 +15,14 @@
     "link": "https://music.imsyy.top/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "OPENWRT-斐讯k3",
+    "name": "斐讯k3-OPENWRT后台",
+    "link": "https://192.168.2.2/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "音乐解锁",
+    "name": "下载音乐解锁",
+    "link": "http://192.168.2.1:9000/"
   },
   {
     "icon": "Fire",
@@ -32,6 +32,6 @@
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "http://192.168.2.1/"
   }
 ]
