@@ -1,13 +1,13 @@
 [
   {
     "icon": "OPENWRT-J1900",
-    "name": "J1900软路由-openwrt后台",
+    "name": "J1900软路由后台",
     "link": "http://192.168.2.1/"
   },
   {
     "icon": "OPENWRT-华硕路由",
-    "name": "华硕路由-OPENWRT后台",
-    "link": "https://192.168.2.3"
+    "name": "华硕路由后台",
+    "link": "http://192.168.2.3"
   },
   {
     "icon": "CompactDisc",
@@ -16,8 +16,8 @@
   },
   {
     "icon": "OPENWRT-斐讯k3",
-    "name": "斐讯k3-OPENWRT后台",
-    "link": "https://192.168.2.2/"
+    "name": "斐讯k3后台",
+    "link": "http://192.168.2.2/"
   },
   {
     "icon": "音乐解锁",
