@@ -45,8 +45,8 @@ import { Pagination, Mousewheel } from "swiper";
 const projectData = [
   {
     name: "home",
-    author: "imsyy",
-    desc: "个人主页，我的个人主页，个人主页源码，主页模板，homepage",
+    author: "zheng147/home",
+    desc: "胖志志主页",
   },
   {
     name: "SPlayer",
